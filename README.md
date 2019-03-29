@@ -7,7 +7,7 @@ get_next_line is an individual project at 42 the main concept of GNL is to reads
 There are so many easier methods of doing this by using standard C functions. But the goal here is to be able to do it by using any functions from my libft and only the standard functions read, malloc and free.
 
 ## Why would I use/try it?
-You probably will never have to use this function if you are not a 42 student. The goal is to get better at C. As I said above, you can only use those three standard library functions:
+You probably will never have to use this function if you are not a 42 student. The goal is to get better at C. As I said above, you can only use those three standard library functions: :imp:
 
 1. read
 2. malloc
