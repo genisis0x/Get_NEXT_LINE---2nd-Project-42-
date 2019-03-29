@@ -25,11 +25,11 @@ I implementated the concept of recursion and reading each line at one time from 
 1. git clone https://github.com/Manmeet2018/Get_NEXT_LINE---2nd-Project-42-.git - [x]
 2. cd https://github.com/Manmeet2018/Get_NEXT_LINE---2nd-Project-42-.git
 3. Perform below steps:
-  > <kbd>a</kbd>  make -C libft/ fclean && make -C libft/
+  >> <kbd>a</kbd>  make -C libft/ fclean && make -C libft/
   - - - -
-  > <kbd>b</kbd> clang -Wall -Wextra -Werror -I libft/includes -o get_next_line.o -c get_next_line.c
+  >> <kbd>b</kbd> clang -Wall -Wextra -Werror -I libft/includes -o get_next_line.o -c get_next_line.c
   - - - -
-  > <kbd>c</kbd> clang -Wall -Wextra -Werror -I libft/includes -o main.o -c main.c
-  - - - -
-  > <kbd>d</kbd> clang -o test_gnl main.o get_next_line.o -I libft/includes -L libft/ -lft
+  >> <kbd>c</kbd> clang -Wall -Wextra -Werror -I libft/includes -o main.o -c main.c
+  - - - 
+  >> <kbd>d</kbd> clang -o test_gnl main.o get_next_line.o -I libft/includes -L libft/ -lft
 4. Make the main function, test file to open and call the function till the function return's '1', and print the string which is been passed at the time of function call from the main. 
