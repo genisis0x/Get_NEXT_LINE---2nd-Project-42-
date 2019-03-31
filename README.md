@@ -20,6 +20,8 @@ My code is not the best, but it passed all the 42 tests successfully.
 
 I implementated the concept of recursion and reading each line at one time from the file provided by the user input.
 
+### Library Used -> [Libft](https://github.com/Manmeet2018/LIBFT---42-First-Project-Cadet)
+
 ### Installation :smile:
 
 1. git clone https://github.com/Manmeet2018/Get_NEXT_LINE---2nd-Project-42-.git
