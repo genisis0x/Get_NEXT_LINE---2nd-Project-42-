@@ -22,8 +22,8 @@ I implementated the concept of recursion and reading each line at one time from 
 
 ### Installation :smile:
 
-1. git clone https://github.com/Manmeet2018/Get_NEXT_LINE---2nd-Project-42-.git - [x]
-2. cd https://github.com/Manmeet2018/Get_NEXT_LINE---2nd-Project-42-.git
+1. git clone https://github.com/Manmeet2018/Get_NEXT_LINE---2nd-Project-42-.git
+2. cd Get_NEXT_LINE---2nd-Project-42-.git
 3. Perform below steps:
   >> <kbd>a</kbd>  make -C libft/ fclean && make -C libft/
   - - - -
